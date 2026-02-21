@@ -18,7 +18,7 @@ To design and build a production-style full-stack application demonstrating:
 - Dashboard analytics
 - Structured project planning
 
-## 🏗 Architecture
+##  Architecture
 
 The system will consist of:
 
@@ -37,4 +37,4 @@ Week 6 – Deployment & polish
 
 ---
 
-🚧 Currently in development.
+ Currently in development.
